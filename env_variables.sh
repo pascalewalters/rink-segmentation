@@ -1,0 +1,2 @@
+export LD_LIBRARY_PATH="/home/pbwalter/Documents/Matlab_runtime_2/v96/runtime/glnxa64:/home/pbwalter/Documents/Matlab_runtime_2/v96/bin/glnxa64:/home/pbwalter/Documents/Matlab_runtime_2/v96/sys/os/glnxa64:/home/pbwalter/Documents/Matlab_runtime_2/v96/sys/opengl/lib/glnxa64"
+export APPLRESDIR=/home/pbwalter/Documents/Matlab_runtime_2/v96/X11/app-defaults
